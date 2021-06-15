@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nika-eduz.
+- 👋 Hi, I’m @nika-edu.
 - 👀 I’m interested in maths, physics and computer programming.
 - 🌱 I’m currently learning: I'm always brush up my skills, currently in Python.
 - 💞️ I’m looking to collaborate on Education in the fields of maths, physics and computer programming.
