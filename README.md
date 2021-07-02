@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nika-edu.
-- 👀 I’m interested in maths, physics and computer programming.
+- 👀 I’m a teacher in maths, physics and computer programming.
 - 🌱 I’m currently learning: I'm always brush up my skills, currently in Python.
 - 💞️ I’m looking to collaborate on Education in the fields of maths, physics and computer programming.
 - 📫 How to reach me: My school's mail or educational platform.
